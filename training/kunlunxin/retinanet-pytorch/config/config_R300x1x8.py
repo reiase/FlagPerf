@@ -1,6 +1,5 @@
-vendor = 'kunlunxin'
+from config_common import *
 
-dist_backend = "xccl"
 train_batch_size = 8
 eval_batch_size = 8
 

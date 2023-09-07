@@ -1,0 +1,6 @@
+psutil==5.9.5
+accelerate==0.20.3
+Pillow
+torchvision==0.13.1
+pycocotools==2.0.5
+numpy==1.23.5
